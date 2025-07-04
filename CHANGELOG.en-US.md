@@ -6,4 +6,4 @@ _2018-6-11_
 
 ### Refactors
 
-Doc[CHANGELOG.en-us] 重新建立更改记录
+Doc[CHANGELOG] 重新建立更改记录
